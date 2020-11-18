@@ -1,6 +1,6 @@
 @echo off
 
-set "VIRTUAL_ENV=D:\Users\RichD\Documents\DJI_Robomaster_Training\dji-env"
+set "VIRTUAL_ENV=D:\Users\RichD\Documents\DJI Robomaster Training\(personal-draft) dji-training\dji-env"
 
 if defined _OLD_VIRTUAL_PROMPT (
     set "PROMPT=%_OLD_VIRTUAL_PROMPT%"

@@ -28,7 +28,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"D:\Users\RichD\Documents\DJI_Robomaster_Training\dji-env"
+$VIRTUAL_ENV = r"D:\Users\RichD\Documents\DJI Robomaster Training\(personal-draft) dji-training\dji-env"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]

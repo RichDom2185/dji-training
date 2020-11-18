@@ -57,7 +57,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV 'D:\Users\RichD\Documents\DJI_Robomaster_Training\dji-env'
+set -gx VIRTUAL_ENV 'D:\Users\RichD\Documents\DJI Robomaster Training\(personal-draft) dji-training\dji-env'
 
 # https://github.com/fish-shell/fish-shell/issues/436 altered PATH handling
 if test (echo $FISH_VERSION | head -c 1) -lt 3
